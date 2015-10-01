@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Walk
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 48db3544bc620344dbcf655583eb94c6, type: 3}
+    - time: .0166666675
+      value: {fileID: 21300000, guid: 649e5277ee4f0c24abc822795798362b, type: 3}
+    - time: .0333333351
+      value: {fileID: 21300000, guid: 5a5fa45c1ef673e4db2c555b5c02827e, type: 3}
+    - time: .0500000007
+      value: {fileID: 21300000, guid: 188781c7240a26848b1a3a11c2b977c5, type: 3}
+    - time: .0666666701
+      value: {fileID: 21300000, guid: b020ce33c69e9dd48bbb3bf8d64e872a, type: 3}
+    - time: .0833333358
+      value: {fileID: 21300000, guid: 20ca8258f6d972e4fb283baa27011e29, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 0
+      attribute: 0
+      script: {fileID: 0}
+      classID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 48db3544bc620344dbcf655583eb94c6, type: 3}
+    - {fileID: 21300000, guid: 649e5277ee4f0c24abc822795798362b, type: 3}
+    - {fileID: 21300000, guid: 5a5fa45c1ef673e4db2c555b5c02827e, type: 3}
+    - {fileID: 21300000, guid: 188781c7240a26848b1a3a11c2b977c5, type: 3}
+    - {fileID: 21300000, guid: b020ce33c69e9dd48bbb3bf8d64e872a, type: 3}
+    - {fileID: 21300000, guid: 20ca8258f6d972e4fb283baa27011e29, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .100000001
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []
